@@ -1,0 +1,27 @@
+5013 Knob w/ 5021 Rose
+
+Passage, Privacy & Dummy
+
+2 5/16
+[58,8]
+
+003, 031, 033, 044
+055, 056, 076, 102
+ITEM # DESCRIPTION 112, 190, 260
+5013.xxx.FD Full Dummy $286
+5013.xxx.IDM Half Dummy $143
+5013.xxx.PASS Passage: 2 %” backset
+$358
+
+5013.xxx.PRIV Privacy: 234” backset
+
+* Works with 1 3/8" and 1 3/4" thick doors
+
+* PASS and PRIV functions ship with full lip strike and Pre-Drilled Door Adaptor
+
+* QuickShip is only available with 2 3/8" backset latch. See 2 3/4" latch options on page 63
+* Ships with a Full Lip Strike. See T-Strike options on page 63
+
+
+
+
