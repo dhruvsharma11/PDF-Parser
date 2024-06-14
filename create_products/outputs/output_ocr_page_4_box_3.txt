@@ -1,0 +1,98 @@
+[
+    {
+        "SKU": "85385.044.2RH",
+        "Title": "Soho Two-Point Lock Handleset w/ Soho Lever - RH Entry",
+        "Finish": "044",
+        "Price": "$795"
+    },
+    {
+        "SKU": "85385.055.2RH",
+        "Title": "Soho Two-Point Lock Handleset w/ Soho Lever - RH Entry",
+        "Finish": "055",
+        "Price": "$795"
+    },
+    {
+        "SKU": "85385.056.2RH",
+        "Title": "Soho Two-Point Lock Handleset w/ Soho Lever - RH Entry",
+        "Finish": "056",
+        "Price": "$795"
+    },
+    {
+        "SKU": "85385.076.2RH",
+        "Title": "Soho Two-Point Lock Handleset w/ Soho Lever - RH Entry",
+        "Finish": "076",
+        "Price": "$795"
+    },
+    {
+        "SKU": "85385.102.2RH",
+        "Title": "Soho Two-Point Lock Handleset w/ Soho Lever - RH Entry",
+        "Finish": "102",
+        "Price": "$795"
+    },
+    {
+        "SKU": "85385.112.2RH",
+        "Title": "Soho Two-Point Lock Handleset w/ Soho Lever - RH Entry",
+        "Finish": "112",
+        "Price": "$795"
+    },
+    {
+        "SKU": "85385.190.2RH",
+        "Title": "Soho Two-Point Lock Handleset w/ Soho Lever - RH Entry",
+        "Finish": "190",
+        "Price": "$795"
+    },
+    {
+        "SKU": "85385.260.2RH",
+        "Title": "Soho Two-Point Lock Handleset w/ Soho Lever - RH Entry",
+        "Finish": "260",
+        "Price": "$795"
+    },
+    {
+        "SKU": "85385.044.2LH",
+        "Title": "Soho Two-Point Lock Handleset w/ Soho Lever - LH Entry",
+        "Finish": "044",
+        "Price": "$795"
+    },
+    {
+        "SKU": "85385.055.2LH",
+        "Title": "Soho Two-Point Lock Handleset w/ Soho Lever - LH Entry",
+        "Finish": "055",
+        "Price": "$795"
+    },
+    {
+        "SKU": "85385.056.2LH",
+        "Title": "Soho Two-Point Lock Handleset w/ Soho Lever - LH Entry",
+        "Finish": "056",
+        "Price": "$795"
+    },
+    {
+        "SKU": "85385.076.2LH",
+        "Title": "Soho Two-Point Lock Handleset w/ Soho Lever - LH Entry",
+        "Finish": "076",
+        "Price": "$795"
+    },
+    {
+        "SKU": "85385.102.2LH",
+        "Title": "Soho Two-Point Lock Handleset w/ Soho Lever - LH Entry",
+        "Finish": "102",
+        "Price": "$795"
+    },
+    {
+        "SKU": "85385.112.2LH",
+        "Title": "Soho Two-Point Lock Handleset w/ Soho Lever - LH Entry",
+        "Finish": "112",
+        "Price": "$795"
+    },
+    {
+        "SKU": "85385.190.2LH",
+        "Title": "Soho Two-Point Lock Handleset w/ Soho Lever - LH Entry",
+        "Finish": "190",
+        "Price": "$795"
+    },
+    {
+        "SKU": "85385.260.2LH",
+        "Title": "Soho Two-Point Lock Handleset w/ Soho Lever - LH Entry",
+        "Finish": "260",
+        "Price": "$795"
+    }
+]

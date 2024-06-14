@@ -1,0 +1,14 @@
+[
+    {
+        "SKU": "85390.190.ACRH",
+        "Title": "Minneapolis Sectional Handleset Kit w/ 5162 Lever - RH Lever",
+        "Finish": "190",
+        "Price": "$445"
+    },
+    {
+        "SKU": "85390.190.ACLH",
+        "Title": "Minneapolis Sectional Handleset Kit w/ 5162 Lever - LH Lever",
+        "Finish": "190",
+        "Price": "$445"
+    }
+]

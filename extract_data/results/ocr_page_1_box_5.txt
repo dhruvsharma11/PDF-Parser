@@ -1,0 +1,16 @@
+* 003, 031, 033, 044
+5020 Colonial Knob w/ 5048 Rose 055, 056, 076, 102
+
+Passage, Privacy & Dummy ITEM # DESCRIPTION 112, 190, 260
+5020.xxx.FD Full Dummy $244
+5020.xxx.IDM Half Dummy $122
+5020.xxx.PASS Passage: 2 4” backset
+$305
+D2 518 D2 3132 5020.xxx.PRIV Privacy: 2 %” backset
+(66,3) (53,5)
+* Works with 1 3/8" and 1 3/4" thick doors
++ PASS and PRIV functions ship with full lip strike and Pre-Drilled Door Adaptor
+b— ter es * QuickShip is only available with 2 3/8” backset latch. See 2 3/4” latch options on page 63
+
+* Ships with a Full Lip Strike. See T-Strike options on page 63
+
