@@ -1,0 +1,13 @@
+ 003, 044, 055
+ITEM #
+DESCRIPTION
+112, 150, 190, 260
+ 4620.xxx.bin  
+ Edge Pull – 2” CTC x 1.125" p. 
+$29
+ 4621.xxx.bin  
+ Edge Pull – 4” CTC x 1.125" p. 
+$40
+ 4622.xxx.bin  
+ Edge Pull – 6” CTC x 1.125" p. 
+$48

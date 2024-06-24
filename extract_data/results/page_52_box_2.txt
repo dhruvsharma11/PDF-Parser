@@ -1,0 +1,11 @@
+ 003, 031, 044, 055
+4452, 4453 Severin Fayerman Collection A Knob
+ITEM #
+DESCRIPTION
+112, 150, 190, 260
+ 4452.xxx.bin
+ Severin A Knob - 1" d.
+$24
+ 4453.xxx.bin
+ Severin A Knob - 1.25” d. x 1.13”p.
+$29

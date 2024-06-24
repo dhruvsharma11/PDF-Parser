@@ -1,0 +1,16 @@
+ 003, 031, 044, 055 
+ITEM #
+DESCRIPTION
+112, 150, 190, 260
+4362.xxx.bin
+Severin B Pull - 4”CTC
+$36
+4395.xxx.bin
+Severin B Pull - 6”CTC
+$40
+4364.xxx
+Severin B Pull - 12”CTC
+$150
+4365.xxx
+Severin B Appliance Pull - 18”CTC
+$220

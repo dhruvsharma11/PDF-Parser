@@ -1,0 +1,5 @@
+PACKED: All bags are coded with product number, description and UPC code.
+ 
+12" and 18" Pulls ship one pull and screw pack in a box, and coded with 
+ 
+product number, description and UPC code. 

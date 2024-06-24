@@ -1,0 +1,3 @@
+PACKED: In individual polybags. All bags are coded with product number, 
+ 
+decription and UPC code.

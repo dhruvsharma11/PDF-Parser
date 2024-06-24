@@ -1,0 +1,16 @@
+p g
+003, 031, 033, 044 
+055, 056, 076 
+102, 112, 190, 260
+ITEM #
+DESCRIPTION
+WT.
+M522.xxx.ENTR
+Entrance Trim – Knob
+9.5
+ $760
+M522.xxx.RENT (LENT)
+Entrance Trim – Lever
+ $760
+Trim width: 3”
+Trim thickness: .53” – H1

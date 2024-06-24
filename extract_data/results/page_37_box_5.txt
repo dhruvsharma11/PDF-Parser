@@ -1,0 +1,13 @@
+003, 031, 033, 044
+055, 056, 0VV*, 102 
+PER 
+112, 190, 260
+ITEM #
+DESCRIPTION
+BOX
+WT.
+ 1046.xxx.I  
+ Ball Bearing Hinge – 4.5˝ x 4.5˝  
+1 each 
+  1.0  
+$70

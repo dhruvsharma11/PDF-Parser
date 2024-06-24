@@ -1,0 +1,10 @@
+003, 031, 033, 044
+055, 056, 076, 102 
+112, 190, 260
+ITEM #
+DESCRIPTION
+WT.
+85327.xxx.ENTR
+Single cylinder handleset with interior knob
+5.8
+$580

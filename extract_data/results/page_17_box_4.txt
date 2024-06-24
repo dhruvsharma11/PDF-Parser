@@ -1,0 +1,13 @@
+ITEM #
+DESCRIPTION
+WT.
+044, 055, 056, 076
+102, 112, 190, 260
+8225.xxx
+Touchscreen Deadbolt Standalone
+4.4
+$540
+8225.xxx.ZW
+Touchscreen Deadbolt with Z-Wave
+4.4
+$650

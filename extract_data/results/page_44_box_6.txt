@@ -1,0 +1,14 @@
+003, 031, 033, 044
+055, 056, 076, 102 
+112, 140, 190, 260
+Item #
+Description
+Wt.
+ 0600.xxx.12  
+ Flush Bolt w/ 12”Rod (Standard)  
+1.8
+ $75
+ 0626.xx*  
+ Flush Bolt – 6” 
+3.8
+ $32

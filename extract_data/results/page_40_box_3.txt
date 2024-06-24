@@ -1,0 +1,16 @@
+Per 
+Item #
+Description
+Box
+Wt.
+030, 260
+ 0155.xxx  
+ Observ-O-Scope (doors <2.25”thick)  
+10
+0.06
+ $21
+ 0156.xxx  
+ Observ-O-Scope (doors 2.25-3.25”thick)  
+10
+0.06
+ $23

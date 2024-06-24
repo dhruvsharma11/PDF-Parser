@@ -1,0 +1,36 @@
+SUFFIX
+MINUS STRIKE
+WITH 1˝ FRONT*
+Right hand
+.R
+.RDT
+.R1DT
+2. All Mortise Locks are either Knob Strength  
+Left hand
+.L
+.LDT
+.L1DT
+Right hand Reverse bevel
+.RR
+.RRDT
+.RR1DT
+(no addition to Suffix) or Lever Strength  
+(LS added to the Suffix)
+Left hand Reverse bevel
+.LR
+.LRDT
+.LR1DT
+Right hand Lever Strength
+.RLS
+.RLSDT
+.RLS1DT
+ 
+WARNING: DO NOT USE Lever Strength mortise 
+Left hand Lever Strength
+.LLS
+.LLSDT
+.LLS1DT
+*Applies to 2.5˝ backset locks. For 1˝ Front DT Distinguishes minus strike. If ordering with 
+strike, do not include the DT note.
+     locks with knobs. They only turn one way and have a 
+     stiff turning action suitable for levers.

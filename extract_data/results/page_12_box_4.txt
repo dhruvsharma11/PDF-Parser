@@ -1,0 +1,30 @@
+ITEM #
+DESCRIPTION
+044, 055, 056, 076 
+102, 112, 190, 260
+L015 Lever w/ R016 Rose
+Passage, Privacy & Dummy
+L015.xxx.FD
+Full Dummy
+$312
+L015.xxx.RDM
+RIGHT Hand Half Dummy
+$156
+L015.xxx.LDM
+LEFT Hand Half Dummy
+L015.xxx.PASS
+Passage: 2 3⁄8˝ backset
+$390
+L015.xxx.PRIV
+Privacy: 2 3⁄8˝ backset
+• Works with 1 3/8" and 1 3/4" thick doors
+PASS
+d PRIV f
+ti
+hi
+ith f ll li
+t ik
+d P
+D ill d D
+Ad
+t

@@ -1,0 +1,9 @@
+ITEM #
+DESCRIPTION
+WT.
+044, 055, 056, 076
+102, 112, 190, 260
+6915.xxx.ENTR
+Entrance Trim 
+9.5
+$760

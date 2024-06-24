@@ -1,0 +1,20 @@
+003, 031, 033, 044
+055, 056, 076, 102
+5112 Lever w/ 5075 Rose
+Passage, Privacy & Dummy
+112, 190, 260
+ITEM #
+DESCRIPTION
+5112.xxx.FD
+Full Dummy
+$286
+5112.xxx.RDM
+RIGHT Hand Half Dummy
+$143
+5112.xxx.LDM
+LEFT Hand Half Dummy
+5112.xxx.PASS
+Passage: 2 3⁄8˝ backset
+$358
+5112.xxx.PRIV
+Privacy: 2 3⁄8˝ backset

@@ -1,0 +1,14 @@
+003, 044, 056, 
+076, 102, 112, 
+190, 402
+ITEM #
+DESCRIPTION
+WT.
+85353.xxx.ACRH
+Sectional Entry Handleset Kit - LH Lever
+4.2
+$445
+85353.xxx.ACLH
+Sectional Entry Handleset Kit - RH Lever
+1.8
+$445

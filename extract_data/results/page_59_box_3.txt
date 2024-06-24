@@ -1,0 +1,46 @@
+003, 050
+056, 076, 102 
+112, 190, 260
+Item #
+Adjustable Backset
+Std.
+Box
+Wt.
+1
+1.1
+ $66
+ 5399.xxx.G 
+For active Sectional and Escutcheon handlesets 
+with Interior Knobs including Single Cylinder 
+(ENTR) and Double Cylinder (DBLC) sets
+1
+1.3
+ $66
+ 5399.xxx.H 
+For active Sectional and Escutcheon handlesets 
+with Interior Levers including Single Cylinder 
+(LHRH) and Double Cylinder (LRDB) sets
+1
+0.7
+ $51
+ 5399.xxx.K 
+For Full Dummy (FD or LRFD) Sectional, 
+Escutcheon, and Emergency Egress 
+handlesets with a Traditional oval thumbpiece 
+including Interior Knobs or Levers
+1
+2.0
+  $66 
+ 5399.xxx.M 
+For active Emergency Egress handlesets (ENTR) 
+with an oval egress cartridge, a Traditional 
+oval thumbpiece, and an Interior Knob
+1
+2.0
+  $66 
+ 5399.xxx.N 
+For active Emergency Egress handlesets (LENT 
+or RENT)  
+with a rectangular egress cartridge, a Traditional 
+oval thumbpiece, and an Interior Lever
+NOTE: All parts must be installed for proper lock function.

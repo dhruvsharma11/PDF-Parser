@@ -1,0 +1,57 @@
+003, 031, 033, 044 
+055, 056, 076,102
+STD. 
+112, 150, 190, 260
+ITEM #
+DESCRIPTION
+BACKSET
+WT.
+STRIKE
+6020.xxx.Suffix*
+Residential Entrance
+Handleset x Knob/Lever
+2.75˝
+3.0
+6040
+LIST OF AVAILABLE HANDLING OPTIONS
+$504
+6021.xxx.Suffix*
+Entrance – Emergency Egress
+Handleset x Knob/Lever
+2.75˝
+3.0
+6040
+SUFFIX*
+6075.xxx.Suffix*
+Entrance – Emergency Egress
+Knob x Knob/Lever x Lever
+2.75˝
+3.0
+6040
+Right hand
+.R
+Left hand
+.L
+6320.xxx.Suffix*
+Residential Entrance
+Handleset x Knob/Lever
+2.5˝
+3.0
+6340
+Right hand Lever Strength
+.RLS
+$504
+6321.xxx.Suffix*
+Entrance – Emergency Egress
+Handleset x Knob/Lever
+2.5˝
+3.0
+6340
+Left hand Lever Strength
+.LLS
+6375.xxx.Suffix*
+Entrance – Emergency Egress
+Knob x Knob/Lever x Lever
+2.5˝
+3.0
+6340

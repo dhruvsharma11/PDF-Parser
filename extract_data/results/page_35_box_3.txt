@@ -1,0 +1,22 @@
+003, 031, 033
+044, 055, 056, 076
+102, 112, 190, 260
+Item #
+Description
+PD005.xxx.ENTR
+Entry set with 2.5" backset lock* 
+Set
+ $814 
+PD005.xxx.PRIV
+Privacy set with 2.5" backset lock
+Set
+ $814 
+SET*
+PD005.xxx.PASS
+Passage/dummy set with pull
+Set
+ $724
+PD005.xxx.FD
+Dummy set for double doors
+Set
+ $765
